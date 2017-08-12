@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="SidewalkConstruction">
+  <name>SidewalkConstruction</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>SidewalkConstruction</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>Arlington Ave</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Arlington Ave</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Road</td>
+<td>Arlington Ave</td>
+</tr>
+<tr>
+<td>FromStreet</td>
+<td>Idaho</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ToStreet</td>
+<td>Laramie</td>
+</tr>
+<tr>
+<td>Type</td>
+<td>Sidewalk Construction</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Leng</td>
+<td>2410.497124</td>
+</tr>
+<tr>
+<td>SHAPE_Area</td>
+<td>8109.430776</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -89.64110679938246,40.66958980348473,0 -89.64112008742255,40.66957127815584,0 -89.64002182010249,40.66955483683977,0 -89.64003480595066,40.6695749110747,0 -89.64110679938246,40.66958980348473,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -89.64124573672002,40.66959043581366,0 -89.64224640696676,40.66960213287233,0 -89.64226907174277,40.6695850800922,0 -89.64123275168699,40.66957036171809,0 -89.64124573672002,40.66959043581366,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -89.64001683909568,40.66971064567827,0 -89.64112453091263,40.66972284056282,0 -89.64112654253894,40.66970569400048,0 -89.64001511961403,40.66969062283091,0 -89.64001683909568,40.66971064567827,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -89.64123339429386,40.66972762539746,0 -89.64226229741641,40.66973087293759,0 -89.6422493108678,40.66971079894941,0 -89.64123729524347,40.66970905733738,0 -89.64123339429386,40.66972762539746,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Starr St</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Starr St</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Road</td>
+<td>Starr St</td>
+</tr>
+<tr>
+<td>FromStreet</td>
+<td>Idaho</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ToStreet</td>
+<td>Laramie</td>
+</tr>
+<tr>
+<td>Type</td>
+<td>Sidewalk Construction</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Leng</td>
+<td>1261.536556</td>
+</tr>
+<tr>
+<td>SHAPE_Area</td>
+<td>4950.53295</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -89.64222191833463,40.67424865310717,0 -89.63998616932503,40.6742480077122,0 -89.63997849368211,40.67426894048192,0 -89.64223105142246,40.67427138064801,0 -89.64222191833463,40.67424865310717,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>Folkers Ave</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Folkers Ave</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Road</td>
+<td>Folkers Ave</td>
+</tr>
+<tr>
+<td>FromStreet</td>
+<td>Hayes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ToStreet</td>
+<td>Arlington</td>
+</tr>
+<tr>
+<td>Type</td>
+<td>Sidewalk Construction</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Leng</td>
+<td>610.285681</td>
+</tr>
+<tr>
+<td>SHAPE_Area</td>
+<td>2248.012935</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -89.6383635596451,40.66966685692348,0 -89.63833356425154,40.66966100110185,0 -89.63831582223979,40.67048153681196,0 -89.63834025362232,40.67047878932097,0 -89.6383635596451,40.66966685692348,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Idaho</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Idaho</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Road</td>
+<td>Idaho</td>
+</tr>
+<tr>
+<td>FromStreet</td>
+<td>Arlington</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ToStreet</td>
+<td>Grinnell</td>
+</tr>
+<tr>
+<td>Type</td>
+<td>Sidewalk Construction</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Leng</td>
+<td>1157.725078</td>
+</tr>
+<tr>
+<td>SHAPE_Area</td>
+<td>3820.807431</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -89.6400490169751,40.66879246524589,0 -89.64004120408936,40.66955512697798,0 -89.64006550295822,40.66955549086094,0 -89.6400753470819,40.66878686675894,0 -89.6400490169751,40.66879246524589,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -89.63985510086262,40.66957502607193,0 -89.63987950817132,40.66957513743072,0 -89.63990070443784,40.66879035861457,0 -89.63987818557888,40.66878882668349,0 -89.63985510086262,40.66957502607193,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Folkers</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Folkers</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Road</td>
+<td>Folkers</td>
+</tr>
+<tr>
+<td>FromStreet</td>
+<td>Hayes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ToStreet</td>
+<td>Alley</td>
+</tr>
+<tr>
+<td>Type</td>
+<td>Additional Work</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Leng</td>
+<td>306.19205</td>
+</tr>
+<tr>
+<td>SHAPE_Area</td>
+<td>1044.544459</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -89.63831178147797,40.67056700871605,0 -89.63830492071108,40.67097483123617,0 -89.63833269490318,40.67096697124195,0 -89.63833574982891,40.67057992259007,0 -89.63833179228206,40.67057573217517,0 -89.63831930290455,40.67056862181993,0 -89.63831178147797,40.67056700871605,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Fremont</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Fremont</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Road</td>
+<td>Fremont</td>
+</tr>
+<tr>
+<td>FromStreet</td>
+<td>Idaho</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ToStreet</td>
+<td>Folkers</td>
+</tr>
+<tr>
+<td>Type</td>
+<td>Additional Work</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Leng</td>
+<td>769.888137</td>
+</tr>
+<tr>
+<td>SHAPE_Area</td>
+<td>1926.193363</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -89.63987763308859,40.67133210381562,0 -89.63986754042131,40.67133196500975,0 -89.63985744776115,40.67133182530251,0 -89.63984735391834,40.67133168558896,0 -89.63983726125117,40.67133154678047,0 -89.63982716740847,40.67133140706516,0 -89.63981646886595,40.67133130601557,0 -89.63980576561384,40.67133120224185,0 -89.63979506707142,40.67133110119031,0 -89.63978436379813,40.67133100011617,0 -89.63977366527706,40.67133089636104,0 -89.63976296200387,40.67133079528492,0 -89.6397522634616,40.67133069422943,0 -89.63974156020267,40.67133059135027,0 -89.6397308616605,40.67133049029277,0 -89.63972016193566,40.67133038922888,0 -89.63970945986667,40.67133028545162,0 -89.63969876014191,40.67133018438574,0 -89.63968805805173,40.67133008330808,0 -89.63967735834832,40.67132997953864,0 -89.63966665625824,40.67132987845901,0 -89.63965595653366,40.67132977738918,0 -89.63964525446491,40.67132967360594,0 -89.63963455474041,40.67132957253413,0 -89.63962385619867,40.67132947146674,0 -89.63961315294736,40.67132936767512,0 -89.6396024544057,40.67132926660573,0 -89.63959175112611,40.67132916641427,0 -89.63958105260582,40.67132906264133,0 -89.63957034933338,40.67132896154736,0 -89.63955965079192,40.67132886047398,0 -89.63954894754085,40.67132875667645,0 -89.63953824899946,40.67132865560112,0 -89.63952754927539,40.67132855451938,0 -89.63951684720718,40.67132845072427,0 -89.63950614748319,40.67132834964056,0 -89.63949544539379,40.67132824854504,0 -89.63948474569118,40.67132814475776,0 -89.63947404360187,40.67132804366025,0 -89.63946334387804,40.67132794257259,0 -89.63945264181008,40.67132783877152,0 -89.63944194207926,40.67132773858238,0 -89.63943124353831,40.67132763749712,0 -89.63942054028777,40.6713275336877,0 -89.6394098417469,40.67132743260046,0 -89.63939913847517,40.67132733149062,0 -89.63938843995567,40.6713272276998,0 -89.639377736684,40.67132712658799,0 -89.63936703814329,40.67132702549679,0 -89.63935633489302,40.67132692168138,0 -89.6393456363524,40.67132682058822,0 -89.63933840816813,40.67132670562513,0 -89.63933118117372,40.67132658976648,0 -89.63932054783221,40.67132647005691,0 -89.63930991683493,40.6713263530588,0 -89.63929928231079,40.67132623334189,0 -89.63928864895524,40.67132611543046,0 -89.63927801443121,40.67132599571162,0 -89.63926738461684,40.67132587871496,0 -89.6392567500929,40.67132575899415,0 -89.63924611554771,40.67132564197393,0 -89.63923548221371,40.67132552135603,0 -89.63922485123808,40.67132540164848,0 -89.63921421787579,40.67132528463075,0 -89.63920502147047,40.67132518138099,0 -89.63919424093007,40.67133878825936,0 -89.63920292762421,40.6713388837781,0 -89.63921358698738,40.67133900361737,0 -89.63922424161966,40.671339123434,0 -89.6392349010042,40.67133924056971,0 -89.63924556036042,40.67133936130651,0 -89.63925621617557,40.67133948112564,0 -89.63926687556025,40.67133959825838,0 -89.63927753137553,40.67133971807552,0 -89.63928819076031,40.67133983520629,0 -89.63929884656857,40.67133995592199,0 -89.63930950593216,40.67134007575241,0 -89.63932016176891,40.67134019286402,0 -89.63933082113262,40.67134031269246,0 -89.63933806586942,40.67134042863217,0 -89.63934531179608,40.6713405436763,0 -89.63935601388707,40.67134064478573,0 -89.63936671713954,40.67134074860118,0 -89.63937741923063,40.67134084970861,0 -89.63938812250447,40.67134095082047,0 -89.63939882102615,40.67134105461134,0 -89.63940952430011,40.67134115572122,0 -89.63942022639134,40.67134125682469,0 -89.63943092964408,40.67134136063417,0 -89.63944163291815,40.67134146174108,0 -89.63945233500952,40.67134156284159,0 -89.63946303826948,40.67134166574756,0 -89.63947374036096,40.67134176684608,0 -89.63948444363518,40.67134186794902,0 -89.63949514215727,40.67134197173095,0 -89.63950584543159,40.67134207283188,0 -89.63951654752322,40.67134217392644,0 -89.63952725077634,40.67134227772701,0 -89.63953795286807,40.6713423788196,0 -89.63954865614258,40.67134247991655,0 -89.63955935821308,40.67134258370874,0 -89.63957006148767,40.67134268480375,0 -89.63958076357957,40.67134278589234,0 -89.63959146328477,40.67134288967075,0 -89.63960216537676,40.67134299075737,0 -89.63961286865859,40.67134309094789,0 -89.63962357072938,40.67134319473411,0 -89.63963427400422,40.67134329582314,0 -89.63964497609636,40.6713433969058,0 -89.63965567935003,40.67134350069447,0 -89.639666382625,40.67134360178051,0 -89.63967708471726,40.6713437028602,0 -89.63968778442288,40.67134380662969,0 -89.63969848651524,40.67134390770739,0 -89.63970918979038,40.67134400878948,0 -89.63971989186157,40.67134411256679,0 -89.63973059513678,40.6713442136469,0 -89.63974129722932,40.67134431472063,0 -89.63975200048337,40.67134441850035,0 -89.63976270258308,40.67134451867157,0 -89.63977340585849,40.67134461974772,0 -89.63978410438175,40.67134472350288,0 -89.63979480765721,40.67134482457703,0 -89.63980550975003,40.67134492564483,0 -89.63981621300434,40.67134502941861,0 -89.63982691509722,40.67134513048438,0 -89.63983700184564,40.67134527016737,0 -89.63984708741847,40.67134540894352,0 -89.63985717298428,40.67134554861932,0 -89.63986725973287,40.67134568829963,0 -89.63987734530585,40.67134582707316,0 -89.63987777462188,40.67134583083302,0 -89.63987763308859,40.67133210381562,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -89.63852641368267,40.6713315595256,0 -89.6385583399794,40.67133158668337,0 -89.63856180036248,40.67133163763268,0 -89.63857255758359,40.67133179670288,0 -89.63858331007381,40.67133195575044,0 -89.63859406256411,40.67133211479698,0 -89.63860481505448,40.67133227384256,0 -89.63861556872763,40.67133243289253,0 -89.63862632476628,40.67133259195231,0 -89.63863707725686,40.67133275099487,0 -89.63864782975458,40.6713329091359,0 -89.63865858224523,40.67133306817645,0 -89.63866933591868,40.67133322722142,0 -89.63868009195767,40.67133338627618,0 -89.63869084444852,40.67133354531373,0 -89.63870159693946,40.67133370435027,0 -89.63871234943044,40.67133386338582,0 -89.63872310310418,40.6713340224258,0 -89.63873385914349,40.67133418147556,0 -89.63874461163465,40.6713343405081,0 -89.63875536412589,40.67133449953964,0 -89.6387661177999,40.67133465857558,0 -89.63877687029125,40.67133481760513,0 -89.63878762633796,40.67133497574936,0 -89.63879837882942,40.67133513477691,0 -89.63880913132095,40.67133529380344,0 -89.63881950743146,40.67133533583633,0 -89.63882988235929,40.67133537786286,0 -89.63884026081399,40.67133542260627,0 -89.63885063574186,40.67133546463096,0 -89.63886101066974,40.67133550665469,0 -89.63887138559765,40.6713355486775,0 -89.63888176170832,40.67133559070481,0 -89.63889213663626,40.67133563272574,0 -89.63890251509113,40.67133567746356,0 -89.63891289002622,40.6713357185821,0 -89.63892326495422,40.67133576060029,0 -89.63893363574481,40.67133587734526,0 -89.63894400299436,40.67133599317254,0 -89.63895437497484,40.67133610902054,0 -89.63896474222447,40.67133622484601,0 -89.63897511302234,40.67133634068672,0 -89.63898548026495,40.67133645741082,0 -89.63899585106293,40.6713365732497,0 -89.6390062218822,40.67133668638605,0 -89.63901658913206,40.67133680220683,0 -89.63902695993014,40.6713369180429,0 -89.63903732718009,40.67133703386182,0 -89.63904769797118,40.67133715059656,0 -89.63905806522124,40.67133726641363,0 -89.6390684372022,40.67133738225139,0 -89.63907880800055,40.6713374980828,0 -89.63908917525075,40.67133761389707,0 -89.63909954604202,40.67133773062715,0 -89.6391099132923,40.67133784643955,0 -89.63912028409079,40.67133796226725,0 -89.6391299878665,40.67133807054361,0 -89.63912122248613,40.6713242473879,0 -89.63911127628886,40.67132413350032,0 -89.63910084044251,40.67132401737462,0 -89.63909040459623,40.67132390124795,0 -89.63907996875709,40.67132378421984,0 -89.63906953645908,40.67132366810749,0 -89.63905910061291,40.67132355197802,0 -89.63904866476683,40.6713234358476,0 -89.63903822892077,40.67132331971623,0 -89.63902779663002,40.67132320269961,0 -89.63901736078405,40.67132308656633,0 -89.63900692493814,40.67132297043211,0 -89.63899648909228,40.67132285429698,0 -89.63898605682303,40.67132273457501,0 -89.63897562097723,40.67132261843796,0 -89.63896518513151,40.67132250229999,0 -89.6389547492858,40.67132238616108,0 -89.63894431698837,40.67132227003746,0 -89.63893388114987,40.67132215299611,0 -89.63892344530431,40.67132203685438,0 -89.6389130739266,40.67132199485246,0 -89.63890269900075,40.67132195283341,0 -89.63889232763728,40.67132190902857,0 -89.63888195625962,40.6713218670239,0 -89.63887158488203,40.67132182501827,0 -89.63886120877351,40.67132178299007,0 -89.63885083739592,40.67132174098258,0 -89.63884046601838,40.67132169897414,0 -89.63883009466215,40.67132165426319,0 -89.63881971973646,40.6713216122367,0 -89.63880934835898,40.67132157022547,0 -89.63879865973692,40.67132141149097,0 -89.63878797227633,40.67132125546246,0 -89.63877728837819,40.67132109764812,0 -89.63876660093904,40.67132093891604,0 -89.63875591229591,40.67132078287917,0 -89.63874522485688,40.67132062414511,0 -89.63873453621388,40.67132046810625,0 -89.63872384877497,40.67132030937022,0 -89.63871316488429,40.67132015064942,0 -89.63870247742422,40.67131999461301,0 -89.63869178880276,40.67131983586862,0 -89.6386811013641,40.67131967712861,0 -89.63867041389707,40.67131952198977,0 -89.638659728824,40.67131936325861,0 -89.63864904136418,40.67131920721725,0 -89.63863835392579,40.67131904847332,0 -89.63862766530467,40.67131888972298,0 -89.63861697784506,40.67131873367863,0 -89.63860629395502,40.67131857494796,0 -89.63859560533412,40.67131841619465,0 -89.63858491787467,40.67131826014736,0 -89.63857423043662,40.67131810139749,0 -89.63856354178749,40.67131794624332,0 -89.63855922754719,40.671317882383,0 -89.63852636082338,40.67131547343922,0 -89.63852460022655,40.6712963662597,0 -89.63851747438007,40.67129947122373,0 -89.63851034737155,40.67130257348033,0 -89.63850322152376,40.67130567844347,0 -89.63849710114486,40.67130921847441,0 -89.63849097957548,40.67131275940012,0 -89.63848686505692,40.67131796293934,0 -89.63848275050216,40.67132317098101,0 -89.6384786359681,40.67132837632094,0 -89.63847625778205,40.6713341758699,0 -89.63847388315797,40.67133997363402,0 -89.63850455888885,40.67134169804916,0 -89.63852641368267,40.6713315595256,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Idaho</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Idaho</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Road</td>
+<td>Idaho</td>
+</tr>
+<tr>
+<td>FromStreet</td>
+<td>Arlington</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ToStreet</td>
+<td>Fremont</td>
+</tr>
+<tr>
+<td>Type</td>
+<td>Additional Work</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Leng</td>
+<td>1124.356846</td>
+</tr>
+<tr>
+<td>SHAPE_Area</td>
+<td>3467.84675</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -89.63985796280653,40.66967229899408,0 -89.63984360882229,40.67069801026786,0 -89.63984670605045,40.67120330926656,0 -89.63985838630516,40.67120100128528,0 -89.63986602710416,40.67119903239588,0 -89.6398680349662,40.67057660161577,0 -89.63987570214609,40.6700000127107,0 -89.63988213358324,40.66967917610075,0 -89.63987484441947,40.66967556040638,0 -89.63986640302144,40.66967392969784,0 -89.63985796280653,40.66967229899408,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff6e6e6e</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>fff7c6e9</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>
