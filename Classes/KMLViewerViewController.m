@@ -25,7 +25,7 @@
     
     // Locate the path to the route.kml file in the application's bundle
     // and parse it with the KMLParser.
-    NSString *path = [[NSBundle mainBundle] pathForResource:@"Pavement2017" ofType:@"kml"];
+    NSString *path = [[NSBundle mainBundle] pathForResource:@"BusStopShelters" ofType:@"kml"];
     //test
     NSURL *url = [NSURL fileURLWithPath:path];
     self.kmlParser = [[KMLParser alloc] initWithURL:url];
